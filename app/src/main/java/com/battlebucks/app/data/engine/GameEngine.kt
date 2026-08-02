@@ -42,6 +42,7 @@ class GameEngine(
                 bumpRandomPlayer()
             }
         }
+        
     }
 
     fun stop() {
