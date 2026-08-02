@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BattleBucks</string>
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="leaderboard_subtitle">Live rankings update automatically</string>
+    <string name="live_label">Live</string>
+    <string name="you_badge">You</string>
+    <string name="current_player_name">Prince Parmar</string>
+    <string name="rank_value">Rank #%1$d</string>
+    <string name="score_value">Score %1$s</string>
+    <string name="score_points">%1$s pts</string>
+    <string name="empty_title">No leaderboard data available</string>
+</resources>
